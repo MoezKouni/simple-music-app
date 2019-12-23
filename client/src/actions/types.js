@@ -1,0 +1,24 @@
+// MUSIC ACTIONS
+export const GET_MUSIC = "GET_MUSIC"
+export const ADD_MUSIC = "ADD_MUSIC"
+export const DELETE_MUSIC = "DELETE_MUSIC"
+export const UPDATE_MUSIC = "UPDATE_MUSIC"
+export const SAVE_MUSIC = "SAVE_MUSIC"
+export const CLEAR_MUSIC = "CLEAR_MUSIC"
+export const MUSIC_ERROR = "MUSIC_ERROR"
+export const REMOVE_CURRENT_MUSIC = "REMOVE_CURRENT_MUSIC"
+
+
+// AUTH ACTIONS
+export const REGISTER_SUCCESS = "REGISTER_SUCCESS"
+export const REGISTER_FAIL = "REGISTER_FAIL"
+export const USER_LOADED = "USER_LOADED"
+export const LOGIN_SUCCESS = "LOGIN_SUCCESS"
+export const LOGIN_FAIL = "LOGIN_FAIL"
+export const AUTH_ERROR = "AUTH_ERROR"
+export const CLEAR_ERROR = "CLEAR_ERROR"
+export const LOGOUT = "LOGOUT"
+
+// Alert ACTIONS
+export const SET_ALERT = "SET_ALERT"
+export const REMOVE_ALERT = "REMOVE_ALERT"
